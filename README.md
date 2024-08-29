@@ -1,6 +1,8 @@
-#User Engagement Prediction Project
+## User Engagement Prediction Project
 
-<img src="https://github.com/user-attachments/assets/3570a7e2-18ee-4012-88b6-b1382ab89968" alt="Precision-Recall Curve Comparison" style="width:800px;"/>
+
+![image](https://github.com/user-attachments/assets/7bc09fba-437d-43a6-871a-0e4560dfea81)
+
 
 
 
