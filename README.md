@@ -1,6 +1,7 @@
 #User Engagement Prediction Project
 
-![image](https://github.com/user-attachments/assets/3570a7e2-18ee-4012-88b6-b1382ab89968)
+<img src="https://github.com/user-attachments/assets/3570a7e2-18ee-4012-88b6-b1382ab89968" alt="Precision-Recall Curve Comparison" style="width:800px;"/>
+
 
 
 ## Project Overview
@@ -45,6 +46,9 @@ The models were evaluated using the Precision-Recall curve, with the following r
 - **Tuned XGBoost**: AP = 0.9445
 
 The Tuned XGBoost model demonstrated the best performance, making it the recommended model for deployment.
+
+![Uploading image.png…]()
+
 
 ### Prerequisites
 
